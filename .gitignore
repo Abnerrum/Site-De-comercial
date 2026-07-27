@@ -1,0 +1,14 @@
+.env
+.env.local
+.env.*.local
+.DS_Store
+Thumbs.db
+node_modules/
+vendor/
+*.log
+.vscode/
+.idea/
+loja/assets/imagens/*
+!loja/assets/imagens/.gitkeep
+loja/assets/uploads/*
+!loja/assets/uploads/.gitkeep
